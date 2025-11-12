@@ -1,0 +1,21 @@
+{
+  "name": "claude-code-plugins",
+  "owner": {
+    "name": "Kristof",
+    "contact": "github.com/krzko"
+  },
+  "description": "Kristof's Claude Code plugins",
+  "plugins": [
+    {
+      "name": "claude-code-plugins",
+      "source": "./",
+      "description": "Kristof's Claude Code plugins",
+      "version": "0.1.0",
+      "author": {
+        "name": "Kristof",
+        "email": "kristof@ko.wal.ski"
+      },
+      "tags": ["productivity", "nextjs", "supabase", "typescript", "react", "development"]
+    }
+  ]
+}
